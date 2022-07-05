@@ -31,7 +31,7 @@ li a {
     color: black;
 }
 body{
-    background-image: linear-gradient(to right, grey, cyan);
+    background-color: cyan;
 }
 footer h4 a {
     padding: 0px 3px;
